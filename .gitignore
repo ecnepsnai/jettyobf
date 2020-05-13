@@ -1,0 +1,2 @@
+cmd/jettyobf/*
+!cmd/jettyobf/*.go
