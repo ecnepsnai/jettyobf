@@ -7,7 +7,7 @@
 
 jettyobf is a go implementation of the [Jetty Password Obfuscation Algorithm](https://www.eclipse.org/jetty/documentation/current/configuring-security-secure-passwords.html).
 
-Obfuscated passwords have no security benifits. Obfuscated passwords are easily reverted to their plain-text form.
+Obfuscated passwords have no security benefits. Obfuscated passwords are easily reverted to their plain-text form.
 **THIS IS NOT A REPLACEMENT FOR PROPER PASSWORD HASHING OR ENCRYPTION.**
 
 # Usage
